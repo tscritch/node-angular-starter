@@ -1,0 +1,27 @@
+{
+  "name": "Starter",
+  "description": "Get up and running with Node, Express, AngularJS, Karma and Jasmine, and Gulp. Simple Procfile for deploying to Heroku.",
+  "authors": [
+    "Tad Scritchfield <tadscritch@gmail.com>"
+  ],
+  "license": "",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.6.5",
+    "jquery": "~2.2.2",
+    "angular-bootstrap": "^1.2.5",
+    "font-awesome": "^4.5.0",
+    "lodash": "^4.17.4",
+    "angular-ui-router": "^1.0.5",
+    "angular-mocks": "^1.6.5"
+  }
+}
