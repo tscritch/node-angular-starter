@@ -1,4 +1,5 @@
 language: node_js
 before_install:
+  - npm i bower -g
   - bower i
   - npm test
