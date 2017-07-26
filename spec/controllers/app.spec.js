@@ -9,16 +9,16 @@ describe('Starter', function() {
     $controller = _$controller_;
   }));
 
-  describe('Home Controller', function() {
+  describe('Application Controller', function() {
 
-    var Home;
+    var App;
 
     beforeEach(function() {
-      Home = $controller('homeController');
+      App = $controller('applicationController');
     });
 
     it('should exist', function() {
-      expect(Home).toBeDefined();
+      expect(App).toBeDefined();
     });
 
 
