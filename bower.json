@@ -1,5 +1,5 @@
 {
-  "name": "Starter",
+  "name": "starter",
   "description": "Get up and running with Node, Express, AngularJS, Karma and Jasmine, and Gulp. Simple Procfile for deploying to Heroku.",
   "authors": [
     "Tad Scritchfield <tadscritch@gmail.com>"

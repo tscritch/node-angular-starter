@@ -2,8 +2,8 @@
 
   'use strict';
 
-  angular.module('starter', []).config(function ($httpProvider) {
-    
+  angular.module('starter').config(function ($httpProvider) {
+
   });
 
 })();
