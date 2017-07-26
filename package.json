@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "postinstall": "bower install",
-    "test": "karma start --single-run"
+    "test": "./node_modules/.bin/karma start --single-run"
   },
   "engines": {
     "node": "~4.4.0",
